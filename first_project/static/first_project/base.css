@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://www.kustomkartel.com/wp-content/uploads/2014/10/home-page-background-temp.jpg") ;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.jumbotron{
+  color:#E9967A;
+}
+.jumbotron h1{
+  color: #E9967A;
+  font-style: bold;
+  font-family: sans-serif;
+}
